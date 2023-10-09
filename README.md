@@ -1,0 +1,2 @@
+# KookaAccelerator
+ Kooka Accelerometer Module
