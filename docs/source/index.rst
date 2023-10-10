@@ -3,7 +3,7 @@ Accelerometer Test Module
 =========================
 QK-05-034
                                
-.. figure:: images/kooka-accel-board.png
+.. figure:: images/kberry-front-photo.png
     :width: 400
     :align: center
 
