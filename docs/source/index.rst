@@ -20,6 +20,10 @@ The module contains an 80 mAH battery, USB-C connectivity to a PC plus a push bu
 Specification
 -------------
 
+A Table to be inserted
+
+The *Table* goes **here**.
+
 
 
 Application
