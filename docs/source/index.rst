@@ -20,22 +20,7 @@ The module contains an 80 mAH battery, USB-C connectivity to a PC plus a push bu
 Specification
 -------------
 
-+---------------------+-------------------------------------------------------------------+
-|Operating Temperature|0 to 50 deg C                                                      |
-+---------------------+-------------------------------------------------------------------+|Interface|	USB - C   |
-|Voltage              |5 volts via the USB- C connector regulated to 3.3 volts on	board
-+---------------------+-------------------------------------------------------------------+|Current				Typical 22 mA
-|Size                 |26 x 60 mm+---------------------+-------------------------------------------------------------------+|Weight				8.5g – approx.
-|Microcontroller			RP2040
-+---------------------+-------------------------------------------------------------------+|Memory			3 MB – Typical AT25SF321
-|Accelerometer			LSM303   3 axis accelerometer / magnetometer
-+---------------------+-------------------------------------------------------------------+|Power Management		TP4056 – AD3401
-|Battery				LIR2032 Li-Ion 3.6/3.8 volts nominal 80mAH
-+---------------------+-------------------------------------------------------------------+|Data Transfer LED		Blue LED to indicate data transfer via the USB-C when using 					the Kookaberry Firmware
-|Soft Reset Push Button		When used with the Kookaberry Firmware
-+---------------------+-------------------------------------------------------------------+|Push Button			For use with applications
-|LEDs				Red and Orange LEDs for use with applications
-+---------------------+-------------------------------------------------------------------+	
+
 
 Application
 -----------
